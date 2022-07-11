@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitLab Runner
 
 This is the repository of the official GitLab Runner written in Go.
@@ -106,3 +107,6 @@ Visit the [Changelog](CHANGELOG.md) to view recent changes.
 ## License
 
 This code is distributed under the MIT license, see the [LICENSE](LICENSE) file.
+=======
+# jnn-project23
+>>>>>>> 08c3550d84a4204dcd62188be40b1db1f6555ed9
